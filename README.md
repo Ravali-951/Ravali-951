@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="<!-- Banner -->
+
 <img src="https://github.com/Ravali-951/Ravali-951/blob/main/Github-banner.png?raw=true" width="100%" />
 
 # Hi there 👋, Welcome!
